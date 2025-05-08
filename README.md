@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS, Spring Boot, AWS**
 
-- 📫 How to reach me **sandeepa.maddumage@gmail.com**
+- 📫 Reach me at **sandeepa.maddumage@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
